@@ -1,1 +1,2 @@
-# Visualising-COVID-19-DataCamp
+# Visualising COVID 19 (on DataCamp)
+This project was a very small-scale activity I undertook from DataCamp as a warm-up of project experience with R. While it is by no means extensive or special, it was nevertheless a good experience to experiment with ggplot2, dplyr and readr. Being a Statistician, I find R to be an enjoyable language to use, and feel free to have a go for yourself on DataCamp. Check this link out: https://learn.datacamp.com/projects/870
